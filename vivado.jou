@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2015.4 (64-bit)
+# SW Build 1412921 on Wed Nov 18 09:43:45 MST 2015
+# IP Build 1412160 on Tue Nov 17 13:47:24 MST 2015
+# Start of session at: Thu Apr 14 10:26:12 2016
+# Process ID: 5944
+# Current directory: U:/Conor/CPE 233/VHDL Lab 2/RAT_Architecture
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent8760 U:\Conor\CPE 233\VHDL Lab 2\RAT_Architecture\RAT_Architecture.xpr
+# Log file: U:/Conor/CPE 233/VHDL Lab 2/RAT_Architecture/vivado.log
+# Journal file: U:/Conor/CPE 233/VHDL Lab 2/RAT_Architecture\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {U:/Conor/CPE 233/VHDL Lab 2/RAT_Architecture/RAT_Architecture.xpr}
+update_compile_order -fileset sources_1
+update_compile_order -fileset sim_1
+launch_simulation
+launch_simulation
+source TPointer.tcl
+close_sim
+launch_simulation
+source TPointer.tcl
